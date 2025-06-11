@@ -1,0 +1,6 @@
+C:\Users\Zeeshan\Desktop\Labrary_project\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\Zeeshan\Desktop\Labrary_project\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zeeshan\Desktop\Labrary_project\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\Zeeshan\Desktop\Labrary_project\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.AssemblyInfo.cs
+C:\Users\Zeeshan\Desktop\Labrary_project\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\Zeeshan\Desktop\Labrary_project\MyProject\WebAPI\obj\Debug\net5.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
